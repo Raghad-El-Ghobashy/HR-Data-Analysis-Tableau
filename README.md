@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-The HR Data Analysis project aims to leverage data analytics to gain valuable insights into various aspects of Human Resources within an organization. By analyzing HR data, this project seeks to provide actionable information to support strategic decision-making, talent management, and overall organizational effectiveness. Through a combination of data exploration, statistical analysis, and visualization, the project aims to uncover patterns, trends, and key indicators that influence HR processes.
+The HR Data Analysis project aims to leverage data analytics to gain valuable insights into various aspects of Human Resources within an organization. By analyzing HR data, this project seeks to provide actionable information to support strategic decision-making, talent management, and overall organizational effectiveness.
+
 
 ## Tools Used 🧑‍💻💻
 
@@ -21,6 +22,12 @@ Utilized Tableau for data visualization and analysis, employing calculated measu
 3. Explore the calculated measures to gain insights into total employees, monthly income, and average percent salary hike.
 
 ## Project Outcome 🎯
+
+👥 Count of Employees: 4410
+💰 Monthly Income: $287M
+📈 Avg. Percent Salary Hike: 15.2%
+♀️ Employees Female: 1764
+♂️ Employees Male: 2646
 
 The project delivers actionable insights for strategic decision-making in human resources, providing valuable information for talent management and organizational effectiveness. The use of Tableau ensures interactive visualizations and insightful metrics for informed decision-making.
 
