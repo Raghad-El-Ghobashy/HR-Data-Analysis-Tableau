@@ -24,10 +24,15 @@ Utilized Tableau for data visualization and analysis, employing calculated measu
 ## Project Outcome 🎯
 
 👥 Count of Employees: 4410
+
 💰 Monthly Income: $287M
+
 📈 Avg. Percent Salary Hike: 15.2%
+
 ♀️ Employees Female: 1764
+
 ♂️ Employees Male: 2646
+
 
 The project delivers actionable insights for strategic decision-making in human resources, providing valuable information for talent management and organizational effectiveness. The use of Tableau ensures interactive visualizations and insightful metrics for informed decision-making.
 
