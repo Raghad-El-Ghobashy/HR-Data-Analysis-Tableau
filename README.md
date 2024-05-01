@@ -28,6 +28,7 @@ The project delivers actionable insights for strategic decision-making in human 
 
 ![HR-Data_Analysis](https://github.com/Raghad-El-Ghobashy/HR-Data-Analysis-Tableau/raw/main/Dashboard%201.png)
 
+---
 
 Feel free to contribute, provide feedback, or use the project as a reference for your own HR data analysis endeavors.
 
